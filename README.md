@@ -1,3 +1,10 @@
+# Installation
+  - Install by hand
+  - Use Vim-addon-manager (VAM) by adding the following line to your .vimrc file
+    - ```VAMActivate github:andrewmeyer/zfs-vim```
+    - My Fish-friendly VAM fork: https://github.com/andrewmeyer/vim-addon-manager
+    - Upstream VAM: https://github.com/MarcWeber/vim-addon-manager
+
 # ZFS Config Syntax Highlighting
   Written with the [Solarized](https://github.com/altercation/vim-colors-solarized) colorscheme
 
