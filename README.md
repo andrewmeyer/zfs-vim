@@ -8,7 +8,7 @@
   - Syntax highlighting for common `vdev_id.conf` command arguments
   - Syntax highlighting for alias definitions
   - Special highlighting for WWN based aliases
-  - Support for TODO style notation of removed drives (#REMOVED|OLD|
+  - Support for TODO style notation of removed drives (#REMOVED|OLD|REPLACED)
 
 ### Missing
   - Support for `channel` definitions
